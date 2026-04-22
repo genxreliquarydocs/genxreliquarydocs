@@ -48,7 +48,8 @@ Artifacts are ranked via the following tiers:
 
 ## For Contributors
 We welcome "Peer Review" from fellow engineers and enthusiasts.
-* To suggest a new relic for adjudication, please file a **Market Correction** via a GitHub Issue.
+* To suggest a new relic for adjudication, please file a **Market Correction** via a GitHub Issue
+  or simply comment on a genxreliquary YouTube video.
 * To improve the ARD-7 documentation, feel free to submit a Pull Request.
 
 ---
