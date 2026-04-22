@@ -43,7 +43,7 @@ Artifacts are ranked via the following tiers:
 ## Repository Structure
 * `/data`: The Single Source of Truth (`relics.txt`).
 * `/scripts`: The ARD-7 engine, including the SHA-1 ID generator.
-* `/catalog`: The human-readable [CATALOG.md](./catalog/CATALOG.md) and individual relic metadata.
+* `/catalog`: The human-readable [CATALOG.md](./CATALOG.md) and individual relic metadata.
 * `/assets`: Schematics, Dymo label templates, and branding.
 
 ## For Contributors
