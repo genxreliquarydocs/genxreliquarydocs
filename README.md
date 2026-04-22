@@ -31,12 +31,12 @@ exceeds products limited by standard internet scraping.
 
 ## The Adjudication Protocol
 Artifacts are ranked via the following tiers:
-Ω [TRANSCENDENT]: High-impact singularities. Objects that survived the 90s unscathed.
-S [LEGENDARY]: Artifacts with a "vibe" so strong it interferes with local Wi-Fi.
-A [DEFINITIVE]: The View-Master Constant. The baseline of Gen X reality.
-B [ESSENTIAL]: Items that worked hard, played hard, and are currently in a box in your garage.
-C [PERIOD]: "Background Radiation." You had it, but you don't know why.
-D [ARTIFACT]: Low-signal junk. Basically a pet rock with a bad attitude.
+* Ω [TRANSCENDENT]: High-impact singularities. Objects that survived the 90s unscathed.
+* S [LEGENDARY]: Artifacts with a "vibe" so strong it interferes with local Wi-Fi.
+* A [DEFINITIVE]: The View-Master Constant. The baseline of Gen X reality.
+* B [ESSENTIAL]: Items that worked hard, played hard, and are currently in a box in your garage.
+* C [PERIOD]: "Background Radiation." You had it, but you don't know why.
+* D [ARTIFACT]: Low-signal junk. Basically a pet rock with a bad attitude.
 
 ---
 
@@ -60,4 +60,3 @@ We welcome "Peer Review" from fellow engineers and enthusiasts.
 * **Content License:** Documentation and lore are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 *Not affiliated with any giraffe-led toy retailers. Be "gen r ous" 8-)*
-
